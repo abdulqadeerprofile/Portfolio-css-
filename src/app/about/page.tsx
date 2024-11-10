@@ -7,7 +7,7 @@ export default function About() {
             <div className="about-grid">
               <div className="about-text">
                 <p className="lead">
-                  I'm an android developer passionate about creating beautiful, 
+                  I&apos;m an android developer passionate about creating beautiful, 
                   functional, and user-friendly android applications.
                 </p>
                 <p>

@@ -5,7 +5,7 @@ export default function Contact() {
           <div className="contact-content">
             <h1>Get in Touch</h1>
             <p className="contact-lead">
-              Have a project in mind? Let's work together to bring your ideas to life.
+              Have a project in mind? Let&apos;s work together to bring your ideas to life.
             </p>
             <form className="contact-form">
               <div className="form-group">
