@@ -4,11 +4,11 @@ const ContactForm = () => {
   return (
     <div className="bg-[#0a0e14] rounded-lg p-4 sm:p-10 ">
       <h1 className="text-bg text-2xl md:text-3xl lg:text-[2.5rem] font-bold">
-        Let's work together!
+        Lets work together
       </h1>
       <p className="text-gray-200 mt-3 lg:text-base text-xs md:text-sm">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, optio
-        ullam soluta itaque esse doloribus!
+        ullam soluta itaque esse doloribus
       </p>
       {/* INPUT FIELDS */}
       <form className="mt-8 block w-full overflow-hidden ">
