@@ -12,7 +12,7 @@ const font = Sora({
 });
 
 export const metadata: Metadata = {
-  title: "Qadeer's Portfolio",
+  title: "Qadeer Portfolio",
   description: "Made with Next JS",
 };
 
